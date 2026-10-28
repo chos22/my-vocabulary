@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "내 단어장",
+  "short_name": "내 단어장",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4fa",
+  "theme_color": "#6958ee",
+  "icons": [
+    {
+      "src": "./my-vocab-v2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./my-vocab-v2-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
